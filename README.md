@@ -26,7 +26,18 @@ FOODLY APP is a Flutter-based food ordering application that allows users to bro
 - Cart Page  
 - Checkout Page  
 - Order Confirmation Page  
-- Order Tracking Page  
+- Order Tracking Page
+  <p align="center">
+  <img src="images/splash_screen.jpg" width="250" />
+  <img src="images/menu.jpg" width="250" />
+  <img src="images/food_list.jpg" width="250" />
+  <img src="images/food_details.jpg" width="250" />
+  <img src="images/cart_page.jpg" width="250" />
+  <img src="images/checkout.jpg" width="250" />
+  <img src="images/order_confirmation.jpg" width="250" />
+  <img src="images/order_tracking.jpg" width="250" />
+  <img src="images/ui_showcase.jpg" width="250" />
+</p>
 
 ---
 
