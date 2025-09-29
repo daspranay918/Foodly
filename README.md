@@ -86,3 +86,5 @@ This app uses mock data for restaurants and menu items.
 No backend integration is included; the focus is on UI and state management.
 
 The app is fully null-safe and designed for Android, iOS, and Web.
+
+Images:------------------------------------------->
